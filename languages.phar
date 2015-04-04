@@ -1,0 +1,8 @@
+#Languages
+#Lists all languages
+
+~ english = languages_en
+~ french = languages_fr
+~ german = languages_ge
+
+#end list of languages
