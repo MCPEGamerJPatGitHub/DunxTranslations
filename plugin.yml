@@ -2,23 +2,3 @@ Name: DunxTranslations
 Authur: DunxandMinecraft
 API Version: 4.1
 Plugin Version: 0.1 Alpha
-
-#Remember to write clean code!
-
-#What is DunxTranslations
-#DunxTranslations is a small plugin that translates the chat to each players language.
-
-#Translations
- ~The translations can be found in " "
- ~Default Translations = English
- 
-#Commands
-~Turns on translations to English
-    if ;command"/translate en"
-     ~action: 'translation = english'
-~Turns on translations to French
-    if ;command"/translate fr"
-     ~action: 'translation = french'
-~Turns on translations to German
-    if ;command"/translate ge"
-     ~action: 'translation = german'
