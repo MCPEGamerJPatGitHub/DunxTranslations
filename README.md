@@ -6,4 +6,4 @@ Translates the chat to different languages of players.
 <li><p>Coming Soon!</p></li>
 
 <p><strong>Changelog</strong></p>
-<p>Coming Soon!</p>
+<P> 0.1 - Added All Languages to the systemM/p>
