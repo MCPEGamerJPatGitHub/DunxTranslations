@@ -7,3 +7,5 @@ Translates the chat to different languages of players.
 
 <p><strong>Changelog</strong></p>
 <P> 0.1 - Added All Languages to the systemM/p>
+
+<p>I have also added this to The Hub Server Network Engine Plugin</p>
